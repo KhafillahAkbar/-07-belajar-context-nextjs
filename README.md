@@ -39,6 +39,20 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Jawaban Soal 2
 ![Screenshot](assets/02.png)
 - Error seperti diatas dapat diselesaikan dengan menambahkan use client pada main page.
+![Screenshot](assets/03.png)
+
+
+
+### Jawaban Soal 3
+![Screenshot](assets/04.png)
+- Tampilan tetap sama seperti sebelumnya, pembuatan level tidak perlu manual dan bisa ditentukan di section.
+
+### Jawaban Soal 3
+![Screenshot](assets/05.png)
+
+
+
+
 
 
 
