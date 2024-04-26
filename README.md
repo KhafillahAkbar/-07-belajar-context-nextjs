@@ -47,7 +47,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![Screenshot](assets/04.png)
 - Tampilan tetap sama seperti sebelumnya, pembuatan level tidak perlu manual dan bisa ditentukan di section.
 
-### Jawaban Soal 3
+### Jawaban Soal 4
 ![Screenshot](assets/05.png)
 
 
