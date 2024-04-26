@@ -35,4 +35,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Jawaban Soal 1
 ![Screenshot](assets/01.png)
 
-Setelah merubah -app.tsx :
+
+### Jawaban Soal 2
+![Screenshot](assets/02.png)
+- Error seperti diatas dapat diselesaikan dengan menambahkan use client pada main page.
+
+
+
